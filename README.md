@@ -9,7 +9,7 @@ Paper list of compositional zero-shot learning
 
 [Learning Graph Embeddings for Compositional Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) CVPR2021 [[code]](https://github.com/ExplainableML/czsl)
 
-[Open World Compositional Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Mancini_Open_World_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/ExplainableML/czsl)
+[Open World Compositional Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Mancini_Open_World_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) CVPR2021 [[code]](https://github.com/ExplainableML/czsl)
 
 ## 2020
 [A causal view of compositional zero-shot recognition](https://arxiv.org/pdf/2006.14610.pdf) NIPS2020 [[code]](https://github.com/nv-research-israel/causal_comp)
