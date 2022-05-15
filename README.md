@@ -1,6 +1,10 @@
 # Awesome-compositional-zero-shot-learning
 Paper list of compositional zero-shot learning
 
+## 2022
+Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning  CVPR2022 
+KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning CVPR2022
+
 
 ## 2021
 [Independent Prototype Propagation for Zero-Shot Compositionality](https://arxiv.org/pdf/2106.00305.pdf) NIPS2021 [[code]](https://github.com/FrankRuis/protoprop)
